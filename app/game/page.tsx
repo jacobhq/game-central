@@ -116,7 +116,7 @@ export default async function Dashboard() {
                                     You have no games
                                 </h3>
                                 <p className="text-sm text-muted-foreground">
-                                    You can start selling as soon as you add a product.
+                                    After you've created some, they'll show up here.
                                 </p>
                                 <Button className="mt-4" variant="outline" asChild>
                                     <Link href="/game/new">New Game</Link>
