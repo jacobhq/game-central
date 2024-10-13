@@ -116,7 +116,7 @@ export default async function Dashboard() {
                                     You have no games
                                 </h3>
                                 <p className="text-sm text-muted-foreground">
-                                    After you've created some, they'll show up here.
+                                    After you&#39;ve created some, they&#39;ll show up here.
                                 </p>
                                 <Button className="mt-4" variant="outline" asChild>
                                     <Link href="/game/new">New Game</Link>
